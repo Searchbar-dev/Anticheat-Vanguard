@@ -1,4 +1,4 @@
 name: Anticheat
 version: ${project.version}
 main: anticheat.anticheat.Anticheat
-authors: [ SearchBar ]
+authors: [ Searchbar ]

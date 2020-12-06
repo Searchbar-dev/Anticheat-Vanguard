@@ -6,7 +6,7 @@
 
     <groupId>Anticheat</groupId>
     <artifactId>Anticheat</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Anticheat</name>
@@ -69,6 +69,16 @@
             <artifactId>spigot-api</artifactId>
             <version>1.12-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.alianza</groupId>
+            <artifactId>DataStorage</artifactId>
+            <version>1.14</version>
+        </dependency>
+        <dependency>
+            <groupId>com.cognifide.aet</groupId>
+            <artifactId>datastorage-api</artifactId>
+            <version>3.2.2</version>
         </dependency>
     </dependencies>
 </project>
